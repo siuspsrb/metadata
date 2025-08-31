@@ -1,0 +1,302 @@
+[
+  {
+    "index": "1",
+    "pertanyaan": "Klub sepak bola manakah yang dikenal dengan julukan 'The Red Devils'?",
+    "jawaban": "Manchester United"
+  },
+  {
+    "index": "2",
+    "pertanyaan": "Pemain manakah yang dikenal dengan julukan 'La Pulga'?",
+    "jawaban": "Lionel Messi"
+  },
+  {
+    "index": "3",
+    "pertanyaan": "Klub sepak bola mana yang dikenal dengan julukan 'Los Blancos'?",
+    "jawaban": "Real Madrid"
+  },
+  {
+    "index": "4",
+    "pertanyaan": "Pemain yang terkenal dengan tendangan bebas spektakulernya, berasal dari Brasil?",
+    "jawaban": "Ronaldinho"
+  },
+  {
+    "index": "5",
+    "pertanyaan": "Klub manakah yang dikenal dengan julukan 'The Blues'?",
+    "jawaban": "Chelsea"
+  },
+  {
+    "index": "6",
+    "pertanyaan": "Siapa pemain yang memiliki julukan 'CR7' dan pernah bermain di Real Madrid?",
+    "jawaban": "Cristiano Ronaldo"
+  },
+  {
+    "index": "7",
+    "pertanyaan": "Pemain sepak bola asal Argentina yang pernah bermain di Manchester City dan Barcelona?",
+    "jawaban": "Sergio Agüero"
+  },
+  {
+    "index": "8",
+    "pertanyaan": "Klub mana yang dikenal dengan julukan 'The Gunners'?",
+    "jawaban": "Arsenal"
+  },
+  {
+    "index": "9",
+    "pertanyaan": "Pemain legenda yang dikenal dengan julukan 'El Fenómeno'?",
+    "jawaban": "Ronaldo Nazário"
+  },
+  {
+    "index": "10",
+    "pertanyaan": "Klub yang memenangkan Piala Dunia Klub FIFA 2021?",
+    "jawaban": "Chelsea"
+  },
+  {
+    "index": "11",
+    "pertanyaan": "Pemain yang dikenal dengan gaya rambut 'Afro' dan bermain di Juventus?",
+    "jawaban": "Paul Pogba"
+  },
+  {
+    "index": "12",
+    "pertanyaan": "Tim sepak bola manakah yang dikenal dengan julukan 'The Toffees'?",
+    "jawaban": "Everton"
+  },
+  {
+    "index": "13",
+    "pertanyaan": "Pemain yang dikenal dengan kemampuannya dalam menggiring bola dan berasal dari Mesir?",
+    "jawaban": "Mohamed Salah"
+  },
+  {
+    "index": "14",
+    "pertanyaan": "Siapa pelatih yang dikenal dengan julukan 'The Special One'?",
+    "jawaban": "José Mourinho"
+  },
+  {
+    "index": "15",
+    "pertanyaan": "Pemain yang bermain untuk klub PSG dan dikenal dengan gaya permainan dribbling yang luar biasa?",
+    "jawaban": "Neymar"
+  },
+  {
+    "index": "16",
+    "pertanyaan": "Klub yang terkenal dengan nama julukan 'The Citizens'?",
+    "jawaban": "Manchester City"
+  },
+  {
+    "index": "17",
+    "pertanyaan": "Pemain yang dikenal dengan kemampuannya dalam bertahan dan bermain di Bayern Munich?",
+    "jawaban": "Joshua Kimmich"
+  },
+  {
+    "index": "18",
+    "pertanyaan": "Pemain sepak bola asal Belgia yang bermain di Chelsea dan terkenal dengan kemampuannya dalam dribbling?",
+    "jawaban": "Eden Hazard"
+  },
+  {
+    "index": "19",
+    "pertanyaan": "Klub yang dikenal dengan julukan 'The Red' dan memiliki sejarah panjang di Premier League?",
+    "jawaban": "Liverpool"
+  },
+  {
+    "index": "20",
+    "pertanyaan": "Pemain legendaris yang dikenal dengan julukan 'El Diego'?",
+    "jawaban": "Diego Maradona"
+  },
+  {
+    "index": "21",
+    "pertanyaan": "Klub yang dikenal dengan julukan 'The Spurs'?",
+    "jawaban": "Tottenham Hotspur"
+  },
+  {
+    "index": "22",
+    "pertanyaan": "Pemain Brasil yang dikenal dengan julukan 'O Rei' (The King)?",
+    "jawaban": "Pelé"
+  },
+  {
+    "index": "23",
+    "pertanyaan": "Klub yang dikenal dengan julukan 'The Reds' dari kota Liverpool?",
+    "jawaban": "Liverpool"
+  },
+  {
+    "index": "24",
+    "pertanyaan": "Pemain yang dikenal dengan tendangan voli spektakuler dan berasal dari Swedia?",
+    "jawaban": "Zlatan Ibrahimović"
+  },
+  {
+    "index": "25",
+    "pertanyaan": "Klub yang dikenal dengan julukan 'I Rossoneri'?",
+    "jawaban": "AC Milan"
+  },
+  {
+    "index": "26",
+    "pertanyaan": "Pemain yang dikenal dengan kemampuan passing dan visi permainannya dari Kroasia?",
+    "jawaban": "Luka Modrić"
+  },
+  {
+    "index": "27",
+    "pertanyaan": "Klub yang dikenal dengan julukan 'La Vecchia Signora'?",
+    "jawaban": "Juventus"
+  },
+  {
+    "index": "28",
+    "pertanyaan": "Pemain yang dikenal dengan kemampuan mencetak gol dan berasal dari Polandia?",
+    "jawaban": "Robert Lewandowski"
+  },
+  {
+    "index": "29",
+    "pertanyaan": "Klub yang dikenal dengan julukan 'Les Parisiens'?",
+    "jawaban": "Paris Saint-Germain"
+  },
+  {
+    "index": "30",
+    "pertanyaan": "Pemain yang dikenal dengan kemampuan mengatur serangan dari lini tengah, berasal dari Belgia?",
+    "jawaban": "Kevin De Bruyne"
+  },
+  {
+    "index": "31",
+    "pertanyaan": "Klub yang dikenal dengan julukan 'Die Roten'?",
+    "jawaban": "Bayern Munich"
+  },
+  {
+    "index": "32",
+    "pertanyaan": "Pemain yang dikenal sebagai salah satu kiper terbaik dunia dan berasal dari Jerman?",
+    "jawaban": "Manuel Neuer"
+  },
+  {
+    "index": "33",
+    "pertanyaan": "Klub yang dikenal dengan julukan 'The Hammers'?",
+    "jawaban": "West Ham United"
+  },
+  {
+    "index": "34",
+    "pertanyaan": "Pemain yang dikenal dengan kemampuan header dan bermain di AC Milan?",
+    "jawaban": "Olivier Giroud"
+  },
+  {
+    "index": "35",
+    "pertanyaan": "Klub yang dikenal dengan julukan 'The Saints'?",
+    "jawaban": "Southampton"
+  },
+  {
+    "index": "36",
+    "pertanyaan": "Pemain Brasil yang bermain di Real Madrid dan dikenal dengan kemampuan dribbling?",
+    "jawaban": "Vinícius Júnior"
+  },
+  {
+    "index": "37",
+    "pertanyaan": "Klub yang dikenal dengan julukan 'I Nerazzurri'?",
+    "jawaban": "Inter Milan"
+  },
+  {
+    "index": "38",
+    "pertanyaan": "Pemain yang dikenal dengan kemampuan finishing di kotak penalti dan berasal dari Norwegia?",
+    "jawaban": "Erling Haaland"
+  },
+  {
+    "index": "39",
+    "pertanyaan": "Klub yang dikenal dengan julukan 'The Foxes'?",
+    "jawaban": "Leicester City"
+  },
+  {
+    "index": "40",
+    "pertanyaan": "Pemain yang dikenal dengan julukan 'The Egyptian King'?",
+    "jawaban": "Mohamed Salah"
+  },
+  {
+    "index": "41",
+    "pertanyaan": "Klub yang dikenal dengan julukan 'The Magpies'?",
+    "jawaban": "Newcastle United"
+  },
+  {
+    "index": "42",
+    "pertanyaan": "Pemain yang dikenal dengan kemampuan teknis dan bermain di Manchester City dari Aljazair?",
+    "jawaban": "Riyad Mahrez"
+  },
+  {
+    "index": "43",
+    "pertanyaan": "Klub yang dikenal dengan julukan 'The Wolves'?",
+    "jawaban": "Wolverhampton Wanderers"
+  },
+  {
+    "index": "44",
+    "pertanyaan": "Pemain yang dikenal dengan kemampuan pace dan bermain di Liverpool dari Senegal?",
+    "jawaban": "Sadio Mané"
+  },
+  {
+    "index": "45",
+    "pertanyaan": "Klub yang dikenal dengan julukan 'The Seagulls'?",
+    "jawaban": "Brighton & Hove Albion"
+  },
+  {
+    "index": "46",
+    "pertanyaan": "Pemain yang dikenal sebagai salah satu bek terbaik dunia dan bermain di Liverpool dari Belanda?",
+    "jawaban": "Virgil van Dijk"
+  },
+  {
+    "index": "47",
+    "pertanyaan": "Klub yang dikenal dengan julukan 'The Hornets'?",
+    "jawaban": "Watford"
+  },
+  {
+    "index": "48",
+    "pertanyaan": "Pemain yang dikenal dengan kemampuan leadership dan bermain di Tottenham dari Inggris?",
+    "jawaban": "Harry Kane"
+  },
+  {
+    "index": "49",
+    "pertanyaan": "Klub yang dikenal dengan julukan 'The Eagles'?",
+    "jawaban": "Crystal Palace"
+  },
+  {
+    "index": "50",
+    "pertanyaan": "Pemain legenda yang dikenal dengan julukan 'Il Capitano' dan bermain di AS Roma?",
+    "jawaban": "Francesco Totti"
+  },
+  {
+    "index": "51",
+    "pertanyaan": "Negara yang menjuarai Piala Dunia 2022 di Qatar?",
+    "jawaban": "Argentina"
+  },
+  {
+    "index": "52",
+    "pertanyaan": "Pemain yang menjadi top scorer Piala Dunia 2018 di Rusia?",
+    "jawaban": "Harry Kane"
+  },
+  {
+    "index": "53",
+    "pertanyaan": "Klub yang memenangkan Liga Champions UEFA 2023?",
+    "jawaban": "Manchester City"
+  },
+  {
+    "index": "54",
+    "pertanyaan": "Pemain yang dikenal dengan julukan 'The Atomic Ant' dan berasal dari Spanyol?",
+    "jawaban": "David Silva"
+  },
+  {
+    "index": "55",
+    "pertanyaan": "Negara yang menjadi tuan rumah Piala Dunia 2026?",
+    "jawaban": "Amerika Serikat, Kanada, dan Meksiko"
+  },
+  {
+    "index": "56",
+    "pertanyaan": "Pemain yang dikenal dengan kemampuan crossing dan bermain di Liverpool dari Mesir?",
+    "jawaban": "Mohamed Salah"
+  },
+  {
+    "index": "57",
+    "pertanyaan": "Klub yang dikenal dengan julukan 'The Bees'?",
+    "jawaban": "Brentford"
+  },
+  {
+    "index": "58",
+    "pertanyaan": "Pemain yang dikenal dengan kemampuan set piece dan bermain di Inter Miami?",
+    "jawaban": "Lionel Messi"
+  },
+  {
+    "index": "59",
+    "pertanyaan": "Negara yang menjuarai Piala Eropa 2021?",
+    "jawaban": "Italia"
+  },
+  {
+    "index": "60",
+    "pertanyaan": "Pemain yang dikenal dengan julukan 'The Iceman' dan berasal dari Islandia?",
+    "jawaban": "Gylfi Sigurðsson"
+  }
+]

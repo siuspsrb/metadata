@@ -1,0 +1,602 @@
+[
+  {
+    "index": "1",
+    "pertanyaan": "Hero assassin yang dikenal dengan kemampuan Shadowrush dan berasal dari Shadow Abyss?",
+    "jawaban": "Hayabusa"
+  },
+  {
+    "index": "2",
+    "pertanyaan": "Hero mage yang memiliki skill ultimate Calamity Reaper dan dijuluki Master of Shadows?",
+    "jawaban": "Lylia"
+  },
+  {
+    "index": "3",
+    "pertanyaan": "Hero marksman yang dikenal dengan skill Deadly Blade dan merupakan Demon Hunter?",
+    "jawaban": "Irithel"
+  },
+  {
+    "index": "4",
+    "pertanyaan": "Hero tank yang memiliki skill Charge dan dijuluki Minotaur King?",
+    "jawaban": "Minotaur"
+  },
+  {
+    "index": "5",
+    "pertanyaan": "Hero fighter yang dikenal dengan skill Immortality dan berasal dari Oriental Fighters?",
+    "jawaban": "Sun"
+  },
+  {
+    "index": "6",
+    "pertanyaan": "Hero mage yang memiliki kemampuan teleportasi dengan skill Cosmic Fission?",
+    "jawaban": "Zhask"
+  },
+  {
+    "index": "7",
+    "pertanyaan": "Hero support yang dikenal sebagai Moon Elf dan memiliki skill Moonlight Immersion?",
+    "jawaban": "Estes"
+  },
+  {
+    "index": "8",
+    "pertanyaan": "Hero assassin yang dijuluki Blade Dancer dan memiliki skill Fatal Links?",
+    "jawaban": "Fanny"
+  },
+  {
+    "index": "9",
+    "pertanyaan": "Hero marksman yang dikenal dengan skill Rain of Arrows dan merupakan Half-Dragon?",
+    "jawaban": "Yi Sun-shin"
+  },
+  {
+    "index": "10",
+    "pertanyaan": "Hero tank yang memiliki skill Brave Smash dan dijuluki Orc Gladiator?",
+    "jawaban": "Balmond"
+  },
+  {
+    "index": "11",
+    "pertanyaan": "Hero mage yang dikenal dengan skill Black Hole dan merupakan Lord of the Abyss?",
+    "jawaban": "Cyclops"
+  },
+  {
+    "index": "12",
+    "pertanyaan": "Hero fighter yang memiliki skill The Abyss Walker dan dijuluki Frozen Warrior?",
+    "jawaban": "Freya"
+  },
+  {
+    "index": "13",
+    "pertanyaan": "Hero assassin yang dikenal dengan skill Smokebomb dan merupakan Shadow Ninja?",
+    "jawaban": "Hanzo"
+  },
+  {
+    "index": "14",
+    "pertanyaan": "Hero marksman yang memiliki skill Destroy Armor dan dijuluki Cyborg Werewolf?",
+    "jawaban": "Roger"
+  },
+  {
+    "index": "15",
+    "pertanyaan": "Hero mage yang dikenal dengan skill Time Tunnel dan merupakan Chronokeeper?",
+    "jawaban": "Diggie"
+  },
+  {
+    "index": "16",
+    "pertanyaan": "Hero tank yang memiliki skill Guardian's Barrier dan dijuluki Forest Guardian?",
+    "jawaban": "Belerick"
+  },
+  {
+    "index": "17",
+    "pertanyaan": "Hero fighter yang dikenal dengan skill Blood Rage dan merupakan Demon Fighter?",
+    "jawaban": "Thamuz"
+  },
+  {
+    "index": "18",
+    "pertanyaan": "Hero assassin yang memiliki skill Space Escape dan dijuluki Interstellar Mercenary?",
+    "jawaban": "Lesley"
+  },
+  {
+    "index": "19",
+    "pertanyaan": "Hero mage yang dikenal dengan skill Eternal Sleep dan merupakan Sandman?",
+    "jawaban": "Harith"
+  },
+  {
+    "index": "20",
+    "pertanyaan": "Hero support yang memiliki skill Healing Spring dan dijuluki Swan Princess?",
+    "jawaban": "Rafaela"
+  },
+  {
+    "index": "21",
+    "pertanyaan": "Hero fighter yang dikenal dengan skill Endless Fury dan merupakan Orc Warrior?",
+    "jawaban": "Badang"
+  },
+  {
+    "index": "22",
+    "pertanyaan": "Hero marksman yang memiliki skill Mobile Fortress dan dijuluki Goblin Engineer?",
+    "jawaban": "Kimmy"
+  },
+  {
+    "index": "23",
+    "pertanyaan": "Hero mage yang dikenal dengan skill Chaos Assault dan merupakan Lord of Lightning?",
+    "jawaban": "Eudora"
+  },
+  {
+    "index": "24",
+    "pertanyaan": "Hero tank yang memiliki skill Flicker dan dijuluki Steel Elf?",
+    "jawaban": "Johnson"
+  },
+  {
+    "index": "25",
+    "pertanyaan": "Hero assassin yang dikenal dengan skill Thousand Poisons dan merupakan Deadly Poison?",
+    "jawaban": "Helcurt"
+  },
+  {
+    "index": "26",
+    "pertanyaan": "Hero fighter yang memiliki skill Nuclear Fusion dan dijuluki Mecha Dragon?",
+    "jawaban": "Alpha"
+  },
+  {
+    "index": "27",
+    "pertanyaan": "Hero mage yang dikenal dengan skill Flame Retribution dan merupakan Fire Mage?",
+    "jawaban": "Valir"
+  },
+  {
+    "index": "28",
+    "pertanyaan": "Hero marksman yang memiliki skill Mystic Shot dan dijuluki Elven Archer?",
+    "jawaban": "Miya"
+  },
+  {
+    "index": "29",
+    "pertanyaan": "Hero tank yang dikenal dengan skill Demon's Grasp dan merupakan Fallen Angel?",
+    "jawaban": "Argus"
+  },
+  {
+    "index": "30",
+    "pertanyaan": "Hero support yang memiliki skill Flower of Hope dan dijuluki Nature Elf?",
+    "jawaban": "Floryn"
+  },
+  {
+    "index": "31",
+    "pertanyaan": "Hero fighter yang dikenal dengan skill Tyrant's Rage dan merupakan Lord of Despair?",
+    "jawaban": "Dyrroth"
+  },
+  {
+    "index": "32",
+    "pertanyaan": "Hero mage yang memiliki skill Meteor dan dijuluki Ice Queen?",
+    "jawaban": "Aurora"
+  },
+  {
+    "index": "33",
+    "pertanyaan": "Hero assassin yang dikenal dengan skill Shadow Kill dan merupakan Shadow Ranger?",
+    "jawaban": "Natalia"
+  },
+  {
+    "index": "34",
+    "pertanyaan": "Hero marksman yang memiliki skill Devil Tears dan dijuluki Demon Hunter?",
+    "jawaban": "Clint"
+  },
+  {
+    "index": "35",
+    "pertanyaan": "Hero tank yang dikenal dengan skill Molten Armor dan merupakan Lava Titan?",
+    "jawaban": "Grock"
+  },
+  {
+    "index": "36",
+    "pertanyaan": "Hero fighter yang memiliki skill Crimson Flower dan dijuluki Scarlet Shadow?",
+    "jawaban": "Hanabi"
+  },
+  {
+    "index": "37",
+    "pertanyaan": "Hero mage yang dikenal dengan skill Arcane Orb dan merupakan Magic Weaver?",
+    "jawaban": "Kagura"
+  },
+  {
+    "index": "38",
+    "pertanyaan": "Hero support yang memiliki skill Guardian Relic dan dijuluki Time Manipulator?",
+    "jawaban": "Diggie"
+  },
+  {
+    "index": "39",
+    "pertanyaan": "Hero assassin yang dikenal dengan skill Phantom Step dan merupakan Phantom Blade?",
+    "jawaban": "Gusion"
+  },
+  {
+    "index": "40",
+    "pertanyaan": "Hero marksman yang memiliki skill Apocalypse dan dijuluki Tyrant?",
+    "jawaban": "Moskov"
+  },
+  {
+    "index": "41",
+    "pertanyaan": "Hero tank yang dikenal dengan skill Earth Shake dan merupakan Earth Spirit?",
+    "jawaban": "Uranus"
+  },
+  {
+    "index": "42",
+    "pertanyaan": "Hero fighter yang memiliki skill Blood Wings dan dijuluki Vampire Lord?",
+    "jawaban": "Alucard"
+  },
+  {
+    "index": "43",
+    "pertanyaan": "Hero mage yang dikenal dengan skill Superpower dan merupakan Astro Child?",
+    "jawaban": "Nana"
+  },
+  {
+    "index": "44",
+    "pertanyaan": "Hero assassin yang memiliki skill Shuriken Tornado dan dijuluki Crimson Ninja?",
+    "jawaban": "Hayabusa"
+  },
+  {
+    "index": "45",
+    "pertanyaan": "Hero marksman yang dikenal dengan skill Deadly Poisoned Stinger dan merupakan Half-Orc?",
+    "jawaban": "Granger"
+  },
+  {
+    "index": "46",
+    "pertanyaan": "Hero tank yang memiliki skill Concussive Blast dan dijuluki Mech Fortress?",
+    "jawaban": "Johnson"
+  },
+  {
+    "index": "47",
+    "pertanyaan": "Hero fighter yang dikenal dengan skill Jade Warrior dan merupakan Dragon Tamer?",
+    "jawaban": "Zilong"
+  },
+  {
+    "index": "48",
+    "pertanyaan": "Hero mage yang memiliki skill Lightning Truncheon dan dijuluki Lightning Sorceress?",
+    "jawaban": "Eudora"
+  },
+  {
+    "index": "49",
+    "pertanyaan": "Hero support yang dikenal dengan skill Aegis dan merupakan Holy Knight?",
+    "jawaban": "Tigreal"
+  },
+  {
+    "index": "50",
+    "pertanyaan": "Hero assassin yang memiliki skill Umbra Form dan dijuluki Shadow?",
+    "jawaban": "Karina"
+  },
+  {
+    "index": "51",
+    "pertanyaan": "Hero marksman yang dikenal dengan skill Magic Crystal dan merupakan Crystal Maiden?",
+    "jawaban": "Layla"
+  },
+  {
+    "index": "52",
+    "pertanyaan": "Hero tank yang memiliki skill Rage Mode dan dijuluki Minotaur King?",
+    "jawaban": "Minotaur"
+  },
+  {
+    "index": "53",
+    "pertanyaan": "Hero fighter yang dikenal dengan skill Monkey Bar dan merupakan Monkey King?",
+    "jawaban": "Sun"
+  },
+  {
+    "index": "54",
+    "pertanyaan": "Hero mage yang memiliki skill Molina Smokescreen dan dijuluki Genius Weaponsmith?",
+    "jawaban": "Angela"
+  },
+  {
+    "index": "55",
+    "pertanyaan": "Hero assassin yang dikenal dengan skill Shadow Leap dan merupakan Dark Elf?",
+    "jawaban": "Selena"
+  },
+  {
+    "index": "56",
+    "pertanyaan": "Hero marksman yang memiliki skill Wind Chant dan dijuluki Wind Elf?",
+    "jawaban": "Claude"
+  },
+  {
+    "index": "57",
+    "pertanyaan": "Hero tank yang dikenal dengan skill Nature's Seed dan merupakan Ent Guardian?",
+    "jawaban": "Belerick"
+  },
+  {
+    "index": "58",
+    "pertanyaan": "Hero fighter yang memiliki skill Legendary Sword dan dijuluki Sword Master?",
+    "jawaban": "Chou"
+  },
+  {
+    "index": "59",
+    "pertanyaan": "Hero mage yang dikenal dengan skill Vermillion Bird dan merupakan Phoenix?",
+    "jawaban": "Pharsa"
+  },
+  {
+    "index": "60",
+    "pertanyaan": "Hero support yang memiliki skill Time Stream dan dijuluki Time Keeper?",
+    "jawaban": "Diggie"
+  },
+  {
+    "index": "61",
+    "pertanyaan": "Hero assassin yang dikenal dengan skill Soul Steal dan merupakan Soul Reaper?",
+    "jawaban": "Leomord"
+  },
+  {
+    "index": "62",
+    "pertanyaan": "Hero marksman yang memiliki skill Heavy Firearms dan dijuluki Gun Expert?",
+    "jawaban": "Bruno"
+  },
+  {
+    "index": "63",
+    "pertanyaan": "Hero tank yang dikenal dengan skill Fortress dan merupakan Steel Guardian?",
+    "jawaban": "Lolita"
+  },
+  {
+    "index": "64",
+    "pertanyaan": "Hero fighter yang memiliki skill Dragon Rage dan dijuluki Dragon Knight?",
+    "jawaban": "Lapu-Lapu"
+  },
+  {
+    "index": "65",
+    "pertanyaan": "Hero mage yang dikenal dengan skill Primal Darkness dan merupakan Abyss Prince?",
+    "jawaban": "Alice"
+  },
+  {
+    "index": "66",
+    "pertanyaan": "Hero assassin yang memiliki skill Stealth Strike dan dijuluki Invisible Assassin?",
+    "jawaban": "Natalia"
+  },
+  {
+    "index": "67",
+    "pertanyaan": "Hero marksman yang dikenal dengan skill Endless Battle dan merupakan War Axe Wielder?",
+    "jawaban": "Bane"
+  },
+  {
+    "index": "68",
+    "pertanyaan": "Hero tank yang memiliki skill Magic Resistance dan dijuluki Anti-Mage Tank?",
+    "jawaban": "Khufra"
+  },
+  {
+    "index": "69",
+    "pertanyaan": "Hero fighter yang dikenal dengan skill Ruby Power dan merupakan Little Red Hood?",
+    "jawaban": "Ruby"
+  },
+  {
+    "index": "70",
+    "pertanyaan": "Hero mage yang memiliki skill Ice Age dan dijuluki Ice Princess?",
+    "jawaban": "Aurora"
+  },
+  {
+    "index": "71",
+    "pertanyaan": "Hero support yang dikenal dengan skill Angel's Descent dan merupakan Battle Angel?",
+    "jawaban": "Rafaela"
+  },
+  {
+    "index": "72",
+    "pertanyaan": "Hero assassin yang memiliki skill Lightning Strike dan dijuluki Lightning Assassin?",
+    "jawaban": "Lancelot"
+  },
+  {
+    "index": "73",
+    "pertanyaan": "Hero marksman yang dikenal dengan skill Sniper Shot dan merupakan Elite Sniper?",
+    "jawaban": "Lesley"
+  },
+  {
+    "index": "74",
+    "pertanyaan": "Hero tank yang memiliki skill Shield Wall dan dijuluki Shield Bearer?",
+    "jawaban": "Hilda"
+  },
+  {
+    "index": "75",
+    "pertanyaan": "Hero fighter yang dikenal dengan skill Beast Power dan merupakan Beast Warrior?",
+    "jawaban": "Roger"
+  },
+  {
+    "index": "76",
+    "pertanyaan": "Hero mage yang memiliki skill Meteor Shower dan dijuluki Star Mage?",
+    "jawaban": "Pharsa"
+  },
+  {
+    "index": "77",
+    "pertanyaan": "Hero assassin yang dikenal dengan skill Death Sentence dan merupakan Grim Reaper?",
+    "jawaban": "Aldous"
+  },
+  {
+    "index": "78",
+    "pertanyaan": "Hero marksman yang memiliki skill Wild Hunt dan dijuluki Beast Hunter?",
+    "jawaban": "Irithel"
+  },
+  {
+    "index": "79",
+    "pertanyaan": "Hero tank yang dikenal dengan skill Earth Armor dan merupakan Rock Giant?",
+    "jawaban": "Grock"
+  },
+  {
+    "index": "80",
+    "pertanyaan": "Hero fighter yang memiliki skill Dragon Strike dan dijuluki Dragon Slayer?",
+    "jawaban": "Zilong"
+  },
+  {
+    "index": "81",
+    "pertanyaan": "Hero mage yang dikenal dengan skill Mind Control dan merupakan Mind Manipulator?",
+    "jawaban": "Lunox"
+  },
+  {
+    "index": "82",
+    "pertanyaan": "Hero support yang memiliki skill Divine Judgment dan dijuluki Divine Priest?",
+    "jawaban": "Faramis"
+  },
+  {
+    "index": "83",
+    "pertanyaan": "Hero assassin yang dikenal dengan skill Shadow Clone dan merupakan Shadow Master?",
+    "jawaban": "Ling"
+  },
+  {
+    "index": "84",
+    "pertanyaan": "Hero marksman yang memiliki skill Precision Shot dan dijuluki Marksman Elite?",
+    "jawaban": "Wanwan"
+  },
+  {
+    "index": "85",
+    "pertanyaan": "Hero tank yang dikenal dengan skill Fortress Defense dan merupakan Mechanical Guardian?",
+    "jawaban": "Atlas"
+  },
+  {
+    "index": "86",
+    "pertanyaan": "Hero fighter yang memiliki skill Blade Dance dan dijuluki Sword Dancer?",
+    "jawaban": "Guinevere"
+  },
+  {
+    "index": "87",
+    "pertanyaan": "Hero mage yang dikenal dengan skill Time Rift dan merupakan Time Mage?",
+    "jawaban": "Zhask"
+  },
+  {
+    "index": "88",
+    "pertanyaan": "Hero assassin yang memiliki skill Silent Strike dan dijuluki Silent Killer?",
+    "jawaban": "Saber"
+  },
+  {
+    "index": "89",
+    "pertanyaan": "Hero marksman yang dikenal dengan skill Phantom Bullet dan merupakan Ghost Gunner?",
+    "jawaban": "Karrie"
+  },
+  {
+    "index": "90",
+    "pertanyaan": "Hero tank yang memiliki skill Guardian Shield dan dijuluki Holy Guardian?",
+    "jawaban": "Tigreal"
+  },
+  {
+    "index": "91",
+    "pertanyaan": "Hero fighter yang dikenal dengan skill Berserker Rage dan merupakan Wild Warrior?",
+    "jawaban": "Balmond"
+  },
+  {
+    "index": "92",
+    "pertanyaan": "Hero mage yang memiliki skill Elemental Power dan dijuluki Element Master?",
+    "jawaban": "Kadita"
+  },
+  {
+    "index": "93",
+    "pertanyaan": "Hero support yang dikenal dengan skill Light Blessing dan merupakan Light Priestess?",
+    "jawaban": "Estes"
+  },
+  {
+    "index": "94",
+    "pertanyaan": "Hero assassin yang memiliki skill Blade Storm dan dijuluki Storm Blade?",
+    "jawaban": "Gusion"
+  },
+  {
+    "index": "95",
+    "pertanyaan": "Hero marksman yang dikenal dengan skill Eagle Eye dan merupakan Eagle Ranger?",
+    "jawaban": "Popol and Kupa"
+  },
+  {
+    "index": "96",
+    "pertanyaan": "Hero tank yang memiliki skill Iron Wall dan dijuluki Iron Defender?",
+    "jawaban": "Baxia"
+  },
+  {
+    "index": "97",
+    "pertanyaan": "Hero fighter yang dikenal dengan skill Demon Blade dan merupakan Blade Demon?",
+    "jawaban": "Thamuz"
+  },
+  {
+    "index": "98",
+    "pertanyaan": "Hero mage yang memiliki skill Void Projection dan dijuluki Void Mage?",
+    "jawaban": "Cecilion"
+  },
+  {
+    "index": "99",
+    "pertanyaan": "Hero assassin yang dikenal dengan skill Lightning Dash dan merupakan Lightning Assassin?",
+    "jawaban": "Lancelot"
+  },
+  {
+    "index": "100",
+    "pertanyaan": "Hero marksman yang memiliki skill Rocket Launcher dan dijuluki Rocket Girl?",
+    "jawaban": "Kimmy"
+  },
+  {
+    "index": "101",
+    "pertanyaan": "Hero mage yang dikenal dengan skill Abyssal Ritual dan merupakan Demon Witch?",
+    "jawaban": "Vexana"
+  },
+  {
+    "index": "102",
+    "pertanyaan": "Hero fighter yang memiliki skill Demon Advent dan dijuluki Prince of the Abyss?",
+    "jawaban": "Dyrroth"
+  },
+  {
+    "index": "103",
+    "pertanyaan": "Hero tank yang dikenal dengan skill Sand King dan merupakan Desert King?",
+    "jawaban": "Khufra"
+  },
+  {
+    "index": "104",
+    "pertanyaan": "Hero assassin yang memiliki skill Cosmic Fission dan dijuluki Space Assassin?",
+    "jawaban": "Helcurt"
+  },
+  {
+    "index": "105",
+    "pertanyaan": "Hero marksman yang dikenal dengan skill Perfect Shot dan merupakan Sniper Elite?",
+    "jawaban": "Lesley"
+  },
+  {
+    "index": "106",
+    "pertanyaan": "Hero mage yang memiliki skill Chaos Lock dan dijuluki Chaos Mage?",
+    "jawaban": "Lylia"
+  },
+  {
+    "index": "107",
+    "pertanyaan": "Hero fighter yang dikenal dengan skill King of Fighters dan merupakan Martial Artist?",
+    "jawaban": "Chou"
+  },
+  {
+    "index": "108",
+    "pertanyaan": "Hero support yang memiliki skill Magic Chess dan dijuluki Little Witch?",
+    "jawaban": "Angela"
+  },
+  {
+    "index": "109",
+    "pertanyaan": "Hero tank yang dikenal dengan skill Spinning Top dan merupakan Spinning Warrior?",
+    "jawaban": "Baxia"
+  },
+  {
+    "index": "110",
+    "pertanyaan": "Hero assassin yang memiliki skill Wall Climbing dan dijuluki Wall Walker?",
+    "jawaban": "Ling"
+  },
+  {
+    "index": "111",
+    "pertanyaan": "Hero marksman yang dikenal dengan skill Beast Bond dan merupakan Beast Tamer?",
+    "jawaban": "Popol and Kupa"
+  },
+  {
+    "index": "112",
+    "pertanyaan": "Hero mage yang memiliki skill Ocean Wave dan dijuluki Ocean Goddess?",
+    "jawaban": "Kadita"
+  },
+  {
+    "index": "113",
+    "pertanyaan": "Hero fighter yang dikenal dengan skill Berserker Mode dan merupakan Orc Berserker?",
+    "jawaban": "Badang"
+  },
+  {
+    "index": "114",
+    "pertanyaan": "Hero support yang memiliki skill Flower Power dan dijuluki Nature's Child?",
+    "jawaban": "Floryn"
+  },
+  {
+    "index": "115",
+    "pertanyaan": "Hero tank yang dikenal dengan skill Metal Skin dan merupakan Cyber Tank?",
+    "jawaban": "Johnson"
+  },
+  {
+    "index": "116",
+    "pertanyaan": "Hero assassin yang memiliki skill Blade Armor dan dijuluki Blade Master?",
+    "jawaban": "Gusion"
+  },
+  {
+    "index": "117",
+    "pertanyaan": "Hero marksman yang dikenal dengan skill Death Ray dan merupakan Death Dealer?",
+    "jawaban": "Granger"
+  },
+  {
+    "index": "118",
+    "pertanyaan": "Hero mage yang memiliki skill Light and Dark dan dijuluki Twilight Goddess?",
+    "jawaban": "Lunox"
+  },
+  {
+    "index": "119",
+    "pertanyaan": "Hero fighter yang dikenal dengan skill Magic Sword dan merupakan Magic Warrior?",
+    "jawaban": "Guinevere"
+  },
+  {
+    "index": "120",
+    "pertanyaan": "Hero support yang memiliki skill Soul Revival dan dijuluki Necromancer?",
+    "jawaban": "Faramis"
+  }
+]
